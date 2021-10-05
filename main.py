@@ -251,7 +251,7 @@ async def timetable(ctx):
   if count1['setting'] == 0:
     em = discord.Embed()
     em.title = 'Showing the online timetable for F4 Phi'
-    em.set_image(url='https://i.imgur.com/4svc8PF.png')
+    em.set_image(url='https://i.imgur.com/vcygTzt.png')
     em.color=random.choice(colors)
     await ctx.send(embed=em)
   else:
