@@ -13,17 +13,17 @@ client.remove_command("help")
 colors=[0x1abc9c, 0x11806a, 0x2ecc71, 0x1f8b4c, 0x3498db, 0x206694, 0x9b59b, 0x71368a, 0xe91e63, 0xad1457, 0xf1c40f, 0xc27c0e, 0xe67e22, 0xa84300]
 
 linka = {
-    "Sejarah": "https://meet.google.com/lookup/be7gaq76j2?authuser=1&hs=179",
+    "Sejarah": "https://meet.google.com/chv-rqff-tqu?authuser=1",
     "Chemistry": "https://us04web.zoom.us/j/3521671572?pwd=Z3ROazdGZWZIaFUxa0NqTXQ1MEZOUT09",
     "Physics": "https://us02web.zoom.us/j/4437107088?pwd=T280alhFWlFHRFlIQWptNmNaakkrQT09",
     "AddMaths": "https://meet.google.com/edv-bwbn-dgk",
     "Biology": "https://meet.google.com/lookup/f72so6bywc?authuser=1&hs=179",
     "Maths": "https://meet.google.com/lookup/buoso3o6oh",
-    "English": "https://meet.google.com/lookup/fls3mekk3x?authuser=1&hs=179",
-    "BM": "https://meet.google.com/lookup/aampa2cfom?authuser=1&hs=179",
+    "English": "https://meet.google.com/fdf-xpkv-chx?authuser=1",
+    "BM": "https://meet.google.com/eyz-finr-iws?authuser=1",
     "BK": "https://us02web.zoom.us/j/902764764?pwd=emp0MlJQamZqejRVcGZVR25XQktpUT09",
-    "RE": "https://meet.google.com/lookup/dfrovktpdr?authuser=1&hs=179",
-    "Moral": "https://meet.google.com/lookup/dxssymx6n7?authuser=1&hs=179"
+    "RE": "https://meet.google.com/jfu-wyua-rxp?authuser=1",
+    "Moral": "https://meet.google.com/pgr-wmjq-hqb?authuser=1"
 }
 
 mondict = [{"name": "Maths", "hour": 8, "minute": 28}, {"name": "BM", "hour": 9, "minute": 28}, {"name": "Chemistry", "hour": 10, "minute": 58}, {"name": "English", "hour": 11, "minute": 55}, {"name": "Sejarah", "hour": 13, "minute": 28}, {"name": "Physics", "hour": 14, "minute": 28}]
