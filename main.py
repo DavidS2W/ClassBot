@@ -13,13 +13,13 @@ client.remove_command("help")
 colors=[0x1abc9c, 0x11806a, 0x2ecc71, 0x1f8b4c, 0x3498db, 0x206694, 0x9b59b, 0x71368a, 0xe91e63, 0xad1457, 0xf1c40f, 0xc27c0e, 0xe67e22, 0xa84300]
 
 linka = {
-    "Sejarah": "https://meet.google.com/chv-rqff-tqu?authuser=1",
+    "Sejarah": "https://meet.google.com/tnw-iszh-uco?authuser=1",
     "Chemistry": "https://us04web.zoom.us/j/3521671572?pwd=Z3ROazdGZWZIaFUxa0NqTXQ1MEZOUT09",
     "Physics": "https://us02web.zoom.us/j/4437107088?pwd=T280alhFWlFHRFlIQWptNmNaakkrQT09",
     "AddMaths": "https://meet.google.com/edv-bwbn-dgk",
     "Biology": "https://meet.google.com/lookup/f72so6bywc?authuser=1&hs=179",
     "Maths": "https://meet.google.com/lookup/buoso3o6oh",
-    "English": "https://meet.google.com/fdf-xpkv-chx?authuser=1",
+    "English": "https://zoom.us/j/99255655878?pwd=MnpzRzVFMHUwNmxpV2g3MFo1SEdidz09",
     "BM": "https://meet.google.com/eyz-finr-iws?authuser=1",
     "BK": "https://us02web.zoom.us/j/902764764?pwd=emp0MlJQamZqejRVcGZVR25XQktpUT09",
     "RE": "https://meet.google.com/jfu-wyua-rxp?authuser=1",
