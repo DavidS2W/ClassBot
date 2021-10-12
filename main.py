@@ -18,7 +18,7 @@ linka = {
     "Physics": "https://us02web.zoom.us/j/4437107088?pwd=T280alhFWlFHRFlIQWptNmNaakkrQT09",
     "AddMaths": "https://meet.google.com/edv-bwbn-dgk",
     "Biology": "https://meet.google.com/lookup/f72so6bywc?authuser=1&hs=179",
-    "Maths": "https://meet.google.com/lookup/buoso3o6oh",
+    "Maths": "https://meet.google.com/ntj-syto-ect",
     "English": "https://zoom.us/j/99255655878?pwd=MnpzRzVFMHUwNmxpV2g3MFo1SEdidz09",
     "BM": "https://meet.google.com/gdn-hgpy-qft?authuser=1",
     "BK": "https://us02web.zoom.us/j/902764764?pwd=emp0MlJQamZqejRVcGZVR25XQktpUT09",
